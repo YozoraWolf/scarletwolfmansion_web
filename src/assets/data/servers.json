@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Scarlet Wolf Mansion - Minecraft",
+        "host": "mc.yozorawolf.com",
+        "icon": "mc.png",
+        "status": true
+    },
+    {
+        "name": "Scarlet Wolf Mansion - MTA:SA (Coming Soon!)",
+        "host": "",
+        "icon": "mtasa.png",
+        "status": false
+    }
+]

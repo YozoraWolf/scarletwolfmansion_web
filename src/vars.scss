@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url("~@/assets/fonts/Raleway-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url("~@/assets/fonts/JosefinSans-VariableFont_wght.ttf") format("truetype");
+}
+
+
+$p-color: rgb(120, 0, 0);
+$s-color: rgb(15, 15, 15);
+$t-color: rgb(223, 210, 30);
+$txt-color: #FFF;
+$m-font: 'Raleway';
+$s-font: "Josefin Sans";

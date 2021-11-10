@@ -1,0 +1,268 @@
+[
+    {
+        "name": "Owners",
+        "color": "#FFF",
+        "members": [
+            {
+                "name": "YozoraWolf",
+                "desc": "Also known as \"Wolf\", he's the leader of the Scarlet Wolf Mansion. He is an advanced programmer that spends his time writing down code, having fun with friends and creating worlds for him and his people. Wolf can be normally found playing games such as Genshin Impact, Touhou and GTA. He enjoys a good chat and a good time.",
+                "img": 
+                {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/64/61/__toyosatomimi_no_miko_touhou_drawn_by_syuri22__sample-6461a80fed413bf8c26e6997d185cb01.jpg",
+                        "source": "https://twitter.com/syuri22/status/1358070677023019013",
+                        "artist": "syuri22"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/90/ef/__toyosatomimi_no_miko_touhou_drawn_by_syuri22__sample-90ef1cc4cd600cb8b6619820cbae4b83.jpg",
+                        "source": "https://www.pixiv.net/artworks/79910067",
+                        "artist": "syuri22"
+                    }
+
+                }
+            }
+
+        ]
+
+    },
+    {
+        "name": "Knight",
+        "color": "#4a94d3",
+        "members": [
+        ]
+
+    },
+    {
+        "name": "Star Maid/Butler",
+        "color": "#fff18d",
+        "members": [
+        ]
+
+    },
+    {
+        "name": "Legendary Maid/Butler",
+        "color": "#d85cfd",
+        "members": [
+            {
+                "name": "Reiuji \"Okuu\" Utsuho",
+                "desc": "The loyalest member in the mansion. She's the original founder of the mansion, you could say it all started from a small whim, but to her, the manison is family, it's the place she belongs to and gave to Wolf. She's currently an ethical hacker and spends her time helping Wolf, listening to music and working.",
+                "img":  
+                {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/47/8a/__reiuji_utsuho_touhou_drawn_by_otoshiro_kosame__sample-478a56a56137fb35c51c70248c5daf74.jpg",
+                        "source": "https://twitter.com/3haruse5/status/1179959932633804805",
+                        "artist": "3haruse5s"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/4a/b3/__reiuji_utsuho_and_reiuji_utsuho_touhou_drawn_by_toutenkou__sample-4ab33609733e2d40095170da6df065b1.jpg",
+                        "source": "https://www.pixiv.net/artworks/74410604",
+                        "artist": "toutenkou"
+                    }
+                }
+            },
+            {
+                "name": "Sumireko Usami",
+                "desc": "Sumireko (Known also as \"Sumi\" is the second maid to join the Scarlet Wolf Mansion. She is a super loyal girl that spends her time playing Final Fantasy, working and spending time with everyone. She's been around for a good time and has been with Wolf through tough and great times. One of the best assets of the mansion!",
+                "img": {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/f9/07/__usami_sumireko_touhou_drawn_by_u_u_zan__sample-f90786ecb6273d698371a9810faf1c18.jpg",
+                        "source": "https://twitter.com/u_u_zan/status/1380718087599648768",
+                        "artist": "羽々斬"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/original/b1/18/__usami_sumireko_touhou_drawn_by_furahata_gen__b1186acb4e45b549abe11fd4080b8501.jpg",
+                        "source": "https://www.pixiv.net/artworks/78197650",
+                        "artist": "Prll7R"
+                    }
+                }
+            },
+            {
+                "name": "Flan",
+                "desc": "Flan is one of the youngest and most energetic members of the mansion. She's very proficient in illustrations and video editing, she prides herself on them. While she might be busy sometimes editing or drawing something, she enjoys spending time with her friends and Wolf, she is Wolf's first and direct maid in real life!",
+                "img":                 
+                {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/original/b8/96/__flandre_scarlet_touhou_drawn_by_hiyuu_hiyualice__b89687af509746253a74026cd0152ab2.png",
+                        "source": "https://twitter.com/hiyualice240/status/1391749290398081024",
+                        "artist": "hiyualice240"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/a5/7b/__flandre_scarlet_touhou_drawn_by_gotou_nekocat__sample-a57b99011eeb4b338a8c584cbf588f5d.jpg",
+                        "source": "https://www.pixiv.net/artworks/68665783",
+                        "artist": "ごとー"
+                    }
+                }
+            }
+
+        ]
+
+    },
+    {
+        "name": "Elite Maid/Butler",
+        "color": "#f33b3b",
+        "members": [
+            {
+                "name": "Shion",
+                "desc": "Full Time streamer and the most active member of the mansion. He's a very charismatic person, friendly and has a lot of knowledge in the culinary side of things. He spends his time streaming, playing videogames and chatting with people! <a href=\"https://www.twitch.tv/shionvt\" target=\"_blank\">Be sure to check him out!</a>",
+                "img": 
+                {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/8e/32/__yorigami_shion_touhou_drawn_by_kawayabug__sample-8e324c0a589b73cbb3027b77ccbd8d0e.jpg",
+                        "source": "https://www.pixiv.net/artworks/92064926",
+                        "artist": "kawayabug"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/7e/e6/__yorigami_shion_touhou_drawn_by_naufaldreamer__sample-7ee6006763f0df096568cea81e81258f.jpg",
+                        "source": "https://www.pixiv.net/artworks/87556041",
+                        "artist": "naufaldreamer"
+                    }
+                }
+            }
+        ]
+
+    },
+    {
+        "name": "NightSky Maid/Butler",
+        "color": "#12d7b3",
+        "members": [
+            {
+                "name": "Hina Kagiyama Vovun",
+                "desc": "Elite Memnber of the Scarlet Wolf Mansion, spends his time sharing good conversation with people, playing videogames and straming them to Twitch! Be sure to check him out!",
+                "img": {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/9b/7d/__kagiyama_hina_touhou_drawn_by_jiji_381134808__sample-9b7d8237a82c2ccf35c9d94708aec934.jpg",
+                        "source": "https://www.pixiv.net/artworks/42142151",
+                        "artist": "露JJ"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/bb/0d/__kagiyama_hina_touhou_drawn_by_mechrailgun__sample-bb0dc56d34b1c5ccf4992904e629a012.jpg",
+                        "source": "https://www.pixiv.net/en/artworks/88019829",
+                        "artist": "グリンー（二小姐格林）"
+                    }
+                }
+            },
+            {
+                "name": "Tahu",
+                "desc": "A very friendly butler at your disposal! Spends his time working but ocationally plays and chats with everyone.",
+                "img": {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/original/5b/85/__sora_kingdom_hearts_and_1_more_drawn_by_komori_kuzuyu__5b85e030a54cb6e9a1619f968655dc03.jpg",
+                        "source": "https://www.pixiv.net/artworks/72979995",
+                        "artist": "小森くづゆ"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/cb/d5/__sora_super_smash_bros_and_2_more_drawn_by_minamo25__sample-cbd56f3fcfd597fa892ed6c3c18d20a7.jpg",
+                        "source": "https://twitter.com/minamo25/status/1450386239010467845",
+                        "artist": "碧木みなも"
+                    }
+                }
+            }
+
+        ]
+
+    },
+    {
+        "name": "Advanced Maid/Butler",
+        "color": "#317fff",
+        "members": [
+            {
+                "name": "Tenshi",
+                "desc": "He's a very intuitive member. He spends his time playing games and sharing with other members of the mansion. He's a very supportive person!",
+                "img": {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/5a/6a/__hinanawi_tenshi_touhou_drawn_by_nikorashi_ka__sample-5a6a0b0553ca0d1c7b2adbbf0ff66f3d.jpg",
+                        "source": "https://twitter.com/rasra25/status/1121025033348898816",
+                        "artist": "煮込らし化(魚肉)"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/59/6a/__hinanawi_tenshi_touhou_drawn_by_ametama_runarunaruta5656__sample-596a0a5ab7c50a6c84c91cc6b9e6fc33.jpg",
+                        "source": "https://www.pixiv.net/artworks/76362220",
+                        "artist": "あめらる"
+                    }
+                }
+            },
+            {
+                "name": "Antara",
+                "desc": "A great friend of Wolf. She's a very calm and helpful person who spends her time working, however she enjoys writing stories and chatting as well! Antara is without a doubt a very mysterious girl, yet very friendly and approachable!",
+                "img": {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/9a/93/__reisen_udongein_inaba_touhou_drawn_by_falken_yutozin__sample-9a93737f58ab30531b63e9ec2b0c2373.jpg",
+                        "source": "https://www.pixiv.net/artworks/81241015",
+                        "artist": "ファルケン"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/29/27/__reisen_udongein_inaba_touhou_drawn_by_beni_kurage__sample-2927ff40e1fc146520dfa799113da427.jpg",
+                        "source": "https://www.pixiv.net/artworks/86985396",
+                        "artist": "紅月堂"
+                    }
+                }
+            }
+
+        ]
+
+    },
+    {
+        "name": "Maid/Butler",
+        "color": "#FFF",
+        "members": [
+            {
+                "name": "Orin",
+                "desc": "A very close friend of Wolf in real life. He is a very polite and fun friend to hang aorund, spends most of his time playing videogames, streaming or watching other streams. Orin is a very realiable and valued member!",
+                "img": {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/30/84/__kaenbyou_rin_touhou_drawn_by_leste_humansequencer__sample-3084e9b6a8a9794d78709536fc97a17c.jpg",
+                        "source": "https://www.pixiv.net/artworks/88035900",
+                        "artist": "れすて"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/64/7f/__kaenbyou_rin_touhou_drawn_by_chups__sample-647f38e68ba0ffda9a5e66c65bdbf5dd.jpg",
+                        "source": "https://twitter.com/Madoukusya/status/1310724287616094208",
+                        "artist": "怪獣王チャプス"
+                    }
+                }
+            },
+            {
+                "name": "Ivy",
+                "desc": "One of our newest members, Ivy is a charismatic girl that enjoys drawing and chatting with friends, truly a member with potential!",
+                "img": {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/0a/4c/__yanfei_genshin_impact_drawn_by_asahi_vjss4548__sample-0a4c18f1f3897a6c5e53ba79e8ec1933.jpg",
+                        "source": "https://twitter.com/so_aoi22/status/1430507991959175174/photo/2",
+                        "artist": "蒼"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/0e/37/__yanfei_genshin_impact_drawn_by_nez_box__sample-0e378c3c48606f8e415f7c6e1233d832.jpg",
+                        "source": "https://www.pixiv.net/artworks/89692809",
+                        "artist": "Nez-Box/ねずっち"
+                    }
+                }
+            },
+            {
+                "name": "dt inmortal",
+                "desc": "A new member of the mansion, he's a very friendly person!",
+                "img": {
+                    "card": {
+                        "durl": "https://cdn.donmai.us/sample/b4/c9/__kageyama_shigeo_mob_psycho_100_drawn_by_kobi420__sample-b4c93a1716d0daa53c25f4556cd69416.jpg",
+                        "source": "https://www.pixiv.net/artworks/93586341",
+                        "artist": "KoBi420"
+                    },
+                    "cover": {
+                        "durl": "https://cdn.donmai.us/sample/df/07/__kageyama_shigeo_mob_psycho_100_drawn_by_cecil_ceshoh__sample-df07f9c84e1b39407931e0632625644e.jpg",
+                        "source": "https://c-saaw.tumblr.com/post/184821939966",
+                        "artist": "cetcil"
+                    }
+                }
+            }
+
+        ]
+
+    },
+    {
+        "name": "Maid/Butler Apprentice",
+        "color": "#af813e",
+        "members": [
+
+        ]
+
+    }
+]
