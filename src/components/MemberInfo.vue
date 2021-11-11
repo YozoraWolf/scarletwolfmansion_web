@@ -32,6 +32,7 @@ export default {
 
     .mi_cont {
 
+        width: 90% !important;
         height: 80% !important;
 
         .mi_txt {
@@ -54,7 +55,7 @@ export default {
         top: 50%;
         transform: translate(-50%, -50%);
 
-        width: 60%;
+        width: 800px;
         height: 70%;
 
         //max-width: 500px;
@@ -105,6 +106,12 @@ export default {
         .mi_txt {
             margin-left: 15px;
             margin-right: 15px;
+
+            overflow-y: scroll !important;
+            height: 25%;
+            
+            margin-top: 5px !important;
+
             .mi_title {
                 margin-top: 15px;
                 margin-bottom: 15px;
@@ -120,8 +127,12 @@ export default {
             .mi_desc {
                 margin-top: 15px;
 
+
+
                 color: $txt-color;
                 font-family: $s-font;
+      
+
                 font-size: 20px;
             }
 
