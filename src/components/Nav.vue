@@ -25,6 +25,13 @@ export default {
 
 @import "./../vars.scss";
 
+@media (max-width: $s-max-size) {
+    .nav {
+        overflow-x: scroll;
+        justify-content: start !important;
+    }
+}
+
 a {
     text-decoration: none;
     width: auto;
@@ -38,6 +45,8 @@ a {
 .nav {
     display: flex;
     justify-content: center;
+
+    
 
     .nav_i {
         color: $txt-color;

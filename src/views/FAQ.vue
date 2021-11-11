@@ -34,6 +34,22 @@ export default {
 
 @import "./../vars.scss";
 
+@media (max-width: $s-max-size) {
+    .f_title {
+        font-size: 60px !important;
+    }
+
+    .f_list {
+        padding-left: 20px !important;
+    }
+
+    .f_item {
+        .f_q, .f_a {
+            flex-direction: column !important;
+        }
+    }
+}
+
 .f_title {
     color: $txt-color;
     font-size: 80px;

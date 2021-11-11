@@ -123,6 +123,26 @@ export default {
     animation: fade-out .5s;
 }
 
+
+@media (max-width: $s-max-size) {
+
+    .m_pos {
+        padding-left: 5px !important;
+    }
+
+    .m_item {
+        display: flex;
+        flex-direction: column !important;
+        align-items: center;
+        justify-content: center;
+
+        .grad, .m_img {
+            max-width: 100% !important;
+        }
+
+    }
+}
+
 .m_pos {
 
     * {
@@ -140,8 +160,6 @@ export default {
         font-style: italic;
 
     }
-
-
 
     .m_item {
         display: flex;

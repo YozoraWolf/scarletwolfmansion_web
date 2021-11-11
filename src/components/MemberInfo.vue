@@ -28,6 +28,26 @@ export default {
 
 @import "./../vars.scss";
 
+@media (max-width: $s-max-size) {
+
+    .mi_cont {
+
+        height: 80% !important;
+
+        .mi_txt {
+            overflow-y: scroll !important;
+
+            margin-top: 10px;
+            height: 23% !important;
+
+            .mi_desc {
+                height: 10% !important;
+            }
+        }
+    }
+
+}
+
     .mi_cont {
         position: absolute;
         left: 50%;

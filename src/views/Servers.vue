@@ -1,7 +1,7 @@
 <template>
   <div class="srv_cont">
       <ul class="srv_list">
-          <li :class="`srv ${srv.status ? '' : 'down'}`" :key="srv.index" v-for="srv in srvs" @click="showCopied()"
+          <li :class="`srv ${srv.status ? '' : 'down'}`" :key="srv.index" v-for="srv in srvs" @click="showCopied(srv.host)"
           data-aos="zoom-in" v-clipboard:copy="srv.host">
               <img :src="require(`../assets/images/${srv.icon}`)" alt="" class="srv_ico">
               <div class="srv_name">{{srv.name}}</div>
@@ -35,7 +35,8 @@ export default {
         }
     },
     methods: {
-        showCopied() {
+        showCopied(host) {
+            if(host === "") return;
             this.toast.success("Copied server link to clipboard!");
         }
     }
@@ -46,6 +47,18 @@ export default {
 <style lang="scss">
 
 @import "./../vars.scss";
+
+@media (max-width: $s-max-size) {
+
+    .srv_list {
+        padding-left: 10px;
+    }
+
+    .srv {
+        transform: scale(0.6) !important;
+    }
+    
+}
 
 .srv_cont {
 
@@ -62,7 +75,7 @@ export default {
             margin-top: 45px;
             margin-bottom: 45px;
 
-            &:active {
+            &:active:not(.down) {
                 transition: transform .3s;
                 transform: scale(.8);
             }
