@@ -1,7 +1,7 @@
 <template>
   <div class="srv_cont">
       <ul class="srv_list">
-          <li :class="`srv ${srv.status ? '' : 'down'}`" :key="srv.index" v-for="srv in srvs"
+          <li :class="`srv ${srv.status ? '' : 'down'}`" :key="srv.index" v-for="srv in srvs" @click="showCopied()"
           data-aos="zoom-in" v-clipboard:copy="srv.host">
               <img :src="require(`../assets/images/${srv.icon}`)" alt="" class="srv_ico">
               <div class="srv_name">{{srv.name}}</div>
@@ -15,17 +15,28 @@
 import srvs from "./../assets/data/servers.json";
 import AOS from "aos";
 import 'aos/dist/aos.css'
+import { useToast } from "vue-toastification";
+
 
 export default {
     name: "Servers",
+    setup() {
+        const toast = useToast();
+
+        return { toast };
+    },
     created() {
         AOS.init();
-
     },
     data() {
         return {
             srvs: srvs,
             mc_up: false
+        }
+    },
+    methods: {
+        showCopied() {
+            this.toast.success("Copied server link to clipboard!");
         }
     }
 
@@ -50,6 +61,11 @@ export default {
 
             margin-top: 45px;
             margin-bottom: 45px;
+
+            &:active {
+                transition: transform .3s;
+                transform: scale(.8);
+            }
 
 
             &:hover {
